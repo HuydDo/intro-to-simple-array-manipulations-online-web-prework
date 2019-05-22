@@ -1,3 +1,4 @@
+
 def using_push(arr, str)
   arr.push(str)
 end
@@ -44,4 +45,9 @@ end
 
 def using_delete_at(arr,num)
   arr.delete_at(num)
+=======
+def array(arr,str)
+  
+  arr.push(str)
+
 end
